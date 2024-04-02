@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Beautiful Roses';
+    src: url('BeautifulRoses-Script.eot');
+    src: url('BeautifulRoses-Script.eot?#iefix') format('embedded-opentype'),
+        url('BeautifulRoses-Script.woff2') format('woff2'),
+        url('BeautifulRoses-Script.woff') format('woff'),
+        url('BeautifulRoses-Script.ttf') format('truetype'),
+        url('BeautifulRoses-Script.svg#BeautifulRoses-Script') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
